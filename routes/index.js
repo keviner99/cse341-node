@@ -6,5 +6,6 @@ router.get("/", function (req, res) {
   res.send("Kevin Espinoza Reyes");
 });
 
+router.use('/contacts', require('./contacts'))
 
 module.exports = router;
