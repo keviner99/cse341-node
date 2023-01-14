@@ -6,3 +6,15 @@ GET http://localhost:8080/contacts/63c1edc902c351525efb64d7
 GET http://localhost:8080/contacts/63c1edc902c351525efb64d8
 ###
 GET http://localhost:8080/contacts/63c1edc902c351525efb64d9
+
+
+// PRODUCTION Deploy ### GET
+
+###
+GET https://cse341-g3nr.onrender.com/contacts
+###
+GET https://cse341-g3nr.onrender.com/contacts/63c1edc902c351525efb64d7
+###
+GET https://cse341-g3nr.onrender.com/contacts/63c1edc902c351525efb64d8
+###
+GET https://cse341-g3nr.onrender.com/contacts/63c1edc902c351525efb64d9
