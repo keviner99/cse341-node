@@ -68,10 +68,10 @@ Content-Type: application/json
 {
     "firstName":"Cristian",
     "lastName":"Cotrina",
-    "email":"c.cotrina@test.com",
+    "email":"cris.cotrina@test.com",
     "favoriteColor":"Black",
-    "birthday":"07/11/20"
+    "birthday":"07/12/20"
 }
 
 ### Delete contact
-DELETE http://localhost:8080/contacts/63c4ee57598b24af227d1930 HTTP/1.1
+DELETE http://localhost:8080/contacts/63c4f2ee3a34cd81935741f4 HTTP/1.1
