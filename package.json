@@ -23,5 +23,11 @@
     "url": "https://github.com/keviner99/cse341-node/issues"
   },
   "homepage": "https://github.com/keviner99/cse341-node#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.3"
+  }
 }
