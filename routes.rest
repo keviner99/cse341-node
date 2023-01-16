@@ -40,11 +40,11 @@ DELETE http://localhost:8080/contacts/63c4e978286d658825f01185 HTTP/1.1
 
 // PRODUCTION Deploy ### GET all contacts
 
-### Get contact by id
+### Get all contacts
 GET https://cse341-g3nr.onrender.com/contacts
 ### Get contact by id
 GET https://cse341-g3nr.onrender.com/contacts/63c1edc902c351525efb64d7
 ### Get contact by id
 GET https://cse341-g3nr.onrender.com/contacts/63c1edc902c351525efb64d8
-###
+### Get contact by id
 GET https://cse341-g3nr.onrender.com/contacts/63c1edc902c351525efb64d9
